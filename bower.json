@@ -1,0 +1,12 @@
+{		
+	"name": "angular-spinner",		
+	"description": "Angular directive to show an animated spinner (using spin.js)",		
+	"main": "./dist/angular-spinner.min.js",		
+    "author": "Anurag Sen",
+	"license": "MIT",		
+	"homepage": "https://github.com/anuragsen21/bower-angular-spinner",		
+	"repository": {		
+		"type": "git",		
+		"url": "https://github.com/anuragsen21/bower-angular-spinner.git"		
+	}		
+}
